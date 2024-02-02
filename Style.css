@@ -1,0 +1,24 @@
+.hijk{
+    display: flex !important;
+    justify-content: space-evenly !important;
+    width: 50%;
+}
+.nret{
+    float: left !important;
+}
+.hjikk{
+    list-style: none;
+
+}
+.asdr{
+    background-color: white;
+}
+.asdr:hover{
+    background-color: #20e1ff;
+    color: white;
+    border:1px solid #fff;
+}
+.hhhh:hover{
+    transform: scale(1.2);
+    overflow: hidden;
+}
